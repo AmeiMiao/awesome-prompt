@@ -1,0 +1,25 @@
+{
+  "scrapedAt": "2026-05-17T09:10:45.855Z",
+  "siteUrl": "https://www.meigen.ai/",
+  "browserScrollLatestCount": 2783,
+  "imagePromptCount": 2783,
+  "videoPromptCount": 114,
+  "allPromptCount": 2897,
+  "assetTaskCount": 5207,
+  "downloadSummary": {
+    "completed": 5207,
+    "downloaded": 5207,
+    "skipped": 0,
+    "failed": 0,
+    "bytes": 897910629,
+    "failures": []
+  },
+  "files": {
+    "imageJsonPath": "E:\\image-garllery-wesite\\meigen_export\\prompts-images.json",
+    "videoJsonPath": "E:\\image-garllery-wesite\\meigen_export\\prompts-videos.json",
+    "allJsonPath": "E:\\image-garllery-wesite\\meigen_export\\prompts-all.json",
+    "csvPath": "E:\\image-garllery-wesite\\meigen_export\\prompts-all.csv",
+    "imageDir": "E:\\image-garllery-wesite\\meigen_export\\images",
+    "videoThumbDir": "E:\\image-garllery-wesite\\meigen_export\\video-thumbnails"
+  }
+}
