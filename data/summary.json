@@ -1,7 +1,7 @@
 {
-  "builtAt": "2026-05-20T14:19:31.822Z",
+  "builtAt": "2026-05-20T14:54:23.076Z",
   "sourceDir": "E:\\image-garllery-wesite\\meigen_export",
-  "rawBase": "",
+  "rawBase": "https://raw.githubusercontent.com/mrslimslim/awesome-prompt/main",
   "quality": 76,
   "maxDimension": 1280,
   "promptCount": 2897,
@@ -11,7 +11,7 @@
   "compression": {
     "completed": 5207,
     "failed": 0,
-    "skipped": 0,
+    "skipped": 5207,
     "sourceBytes": 897910629,
     "outputBytes": 456791386,
     "savedBytes": 441119243,
@@ -42,5 +42,5 @@
       "videoThumbDir": "E:\\image-garllery-wesite\\meigen_export\\video-thumbnails"
     }
   },
-  "dataSha256": "1e060ca2e6a36772aad3258dffa691c5ffc4cbd8f1dc63fa86ae2efa1d937849"
+  "dataSha256": "39d5aadedd38ae9554a62614b4e5ebbd2a54aeee877fe5955ff627b9481c9fcd"
 }

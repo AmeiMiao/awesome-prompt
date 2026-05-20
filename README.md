@@ -26,7 +26,7 @@ Useful options:
 
 ```bash
 npm run build:meigen -- --quality=76 --max=1280 --concurrency=8
-npm run build:meigen -- --raw-base=https://raw.githubusercontent.com/OWNER/REPO/master
+npm run build:meigen -- --raw-base=https://raw.githubusercontent.com/mrslimslim/awesome-prompt/main
 npm run build:meigen -- --clean=false
 ```
 
@@ -64,5 +64,17 @@ http://127.0.0.1:4173/
 Raw GitHub URL pattern:
 
 ```text
-https://raw.githubusercontent.com/OWNER/REPO/master/images/2054962469810978916/0.webp
+https://raw.githubusercontent.com/mrslimslim/awesome-prompt/main/images/2054962469810978916/0.webp
+```
+
+Convert a normal GitHub page URL:
+
+```text
+https://github.com/mrslimslim/awesome-prompt/blob/main/images/1924288320881750108/0.webp
+```
+
+to a raw image URL:
+
+```text
+https://raw.githubusercontent.com/mrslimslim/awesome-prompt/main/images/1924288320881750108/0.webp
 ```
