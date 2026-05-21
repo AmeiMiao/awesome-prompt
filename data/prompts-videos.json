@@ -1,5 +1,579 @@
 [
   {
+    "id": "2057063819424256034",
+    "image": "https://images.meigen.ai/videos/2057063819424256034/thumb.jpg",
+    "mediaType": "video",
+    "videoUrl": "https://images.meigen.ai/videos/2057063819424256034/video.mp4",
+    "title": "Create a Pixar 3D style character design sheet. Clean whi...",
+    "prompt": "Create a Pixar 3D style character design sheet. Clean white background. Two characters side by side with a clean dividing line. Bold brushstroke-style title at the top: DAVE vs THE GOLF BALL. Subtitle beneath: Perfect shot. Absolutely no idea what happened next.\nLEFT SIDE — DAVE\nLarge name in bold black. Underneath: “That was intentional.”\nHero portrait — Dave isolated on clean white. No background. Pixar 3D man, mid 50s, slight dad build, bright red polo shirt, white golf glove on left hand, khaki golf trousers, white golf shoes. Visor on head slightly crooked. Expression of a man who just watched something happen that he cannot explain but will absolutely take credit for. Standing with golf club resting on shoulder, chin slightly raised. Just Dave on white.\nThree poses beneath:\n•Perfect confident golf swing follow-through, eyes tracking the ball into the distance, slight satisfied smile. Clean form. He has no idea what is about to happen.\n•Frozen mid-walk, hand shielding eyes from the sun, mouth slightly open, watching the ball ricochet off something in the distance he cannot quite see. Processing.\n•Standing at the hole, club still raised from the original swing, staring down at the ball sitting in the cup. Full disbelief. Mouth open. One eyebrow raised higher than the other. He will tell this story forever.\nGOLF SKILL ██░░░░░░░░ Questionable\nLUCK ██████████ Generational\nHONESTY ░░░░░░░░░░ Will take full credit\nRIGHT SIDE — THE GOLF BALL\nLarge name in bold black. Underneath: “I knew exactly what I was doing.”\nHero portrait — one white golf ball isolated on clean white. Small red logo on the side. Sitting perfectly still. Completely unbothered. Just a golf ball on white.\nThree poses beneath:\n•Mid-air after a perfect clean strike, slight motion blur, heading directly toward a tree trunk at full speed\n•Ricocheting off a golf cart wheel at a wild angle, spinning furiously, completely out of control, going exactly where it needs to go\n•Sitting perfectly still at the bottom of the cup. Arrived. Settled. Done. As if this was always the plan.\nACCURACY ██████████ Unconventional\nREMORSE ░░░░░░░░░░ It is a golf ball. It has no regrets.\nBOTTOM STRIP:\nDave’s clean swing, ball launching off the tee · Ball smashing directly into a tree trunk at full speed · Ball bouncing off a golf cart wheel at a ridiculous angle · Ball ricocheting off an unsuspecting golfer’s head, that golfer’s hat flying off · Ball dropping perfectly into the cup · Dave standing over the hole, club still raised, completely unable to process what he just witnessed\nTHE SHOT WAS TERRIBLE. THE RESULT WAS PERFECT. DAVE WILL NEVER SPEAK OF THE DETAILS.\nSTYLE NOTES: Pixar 3D vivid rendering. Bright vivid golf course visible in bottom strip panels — deep green fairways, bright blue sky, golden sunlight, colorful golf carts. Both hero portraits isolated on clean white. Dave’s expressions at full Pixar exaggeration especially in pose three. Golf ball identical across every panel. The ball’s journey is the visual star — each ricochet a new insane angle. Every character on the course full Pixar 3D render.​​​​​​​​​​​​​​​​",
+    "promptSegments": [
+      {
+        "text": "Create a Pixar 3D style character design sheet. Clean white background. Two characters side by side with a clean dividing line. Bold brushstroke-style title at the top: DAVE vs THE GOLF BALL. Subtitle beneath: Perfect shot. Absolutely no idea what happened next.\nLEFT SIDE — DAVE\nLarge name in bold black. Underneath: “That was intentional.”\nHero portrait — Dave isolated on clean white. No background. Pixar 3D man, mid 50s, slight dad build, bright red polo shirt, white golf glove on left hand, khaki golf trousers, white golf shoes. Visor on head slightly crooked. Expression of a man who just watched something happen that he cannot explain but will absolutely take credit for. Standing with golf club resting on shoulder, chin slightly raised. Just Dave on white.\nThree poses beneath:\n•Perfect confident golf swing follow-through, eyes tracking the ball into the distance, slight satisfied smile. Clean form. He has no idea what is about to happen.\n•Frozen mid-walk, hand shielding eyes from the sun, mouth slightly open, watching the ball ricochet off something in the distance he cannot quite see. Processing.\n•Standing at the hole, club still raised from the original swing, staring down at the ball sitting in the cup. Full disbelief. Mouth open. One eyebrow raised higher than the other. He will tell this story forever.\nGOLF SKILL ██░░░░░░░░ Questionable\nLUCK ██████████ Generational\nHONESTY ░░░░░░░░░░ Will take full credit\nRIGHT SIDE — THE GOLF BALL\nLarge name in bold black. Underneath: “I knew exactly what I was doing.”\nHero portrait — one white golf ball isolated on clean white. Small red logo on the side. Sitting perfectly still. Completely unbothered. Just a golf ball on white.\nThree poses beneath:\n•Mid-air after a perfect clean strike, slight motion blur, heading directly toward a tree trunk at full speed\n•Ricocheting off a golf cart wheel at a wild angle, spinning furiously, completely out of control, going exactly where it needs to go\n•Sitting perfectly still at the bottom of the cup. Arrived. Settled. Done. As if this was always the plan.\nACCURACY ██████████ Unconventional\nREMORSE ░░░░░░░░░░ It is a golf ball. It has no regrets.\nBOTTOM STRIP:\nDave’s clean swing, ball launching off the tee · Ball smashing directly into a tree trunk at full speed · Ball bouncing off a golf cart wheel at a ridiculous angle · Ball ricocheting off an unsuspecting golfer’s head, that golfer’s hat flying off · Ball dropping perfectly into the cup · Dave standing over the hole, club still raised, completely unable to process what he just witnessed\nTHE SHOT WAS TERRIBLE. THE RESULT WAS PERFECT. DAVE WILL NEVER SPEAK OF THE DETAILS.\nSTYLE NOTES: Pixar 3D vivid rendering. Bright vivid golf course visible in bottom strip panels — deep green fairways, bright blue sky, golden sunlight, colorful golf carts. Both hero portraits isolated on clean white. Dave’s expressions at full Pixar exaggeration especially in pose three. Golf ball identical across every panel. The ball’s journey is the visual star — each ricochet a new insane angle. Every character on the course full Pixar 3D render.​​​​​​​​​​​​​​​​",
+        "type": "image"
+      },
+      {
+        "text": "Use the attached DAVE VS THE GOLF BALL character sheet as the exact visual reference for Dave throughout. Dave is a Pixar 3D man, mid 50s, slight dad build, bright red polo shirt, white golf glove on left hand, khaki golf trousers, white golf shoes, visor slightly crooked. Every character on the course — Dave, the hatless golfer, any background figures — full Pixar 3D render. No realistic humans.\nTHE COURSE: Bright vivid golf course throughout. Deep green fairways, bright blue sky, golden sunlight, tall trees lining the fairway, colorful golf carts. Maximum brightness and color. No dark frames.\nTHE BALL: Standard white golf ball with small red logo. Identical throughout. Camera follows it for most of the video.\nMUSIC: Calm pleasant golf music at the start — soft and relaxed. The moment the ball hits the tree at 0:02 the music shifts to a chaotic comedy track — fast bouncy horns following each ricochet. Returns to calm pleasant music the moment the ball drops in the hole at 0:10.\n0:00–0:02 — Medium shot. Dave on the tee, composed, confident. Takes one slow deliberate swing. Perfect clean strike. Ball launches into the bright blue sky. Dave watches it fly, satisfied smile, club resting on his shoulder. SOUND: Clean club strike. Whoosh. Soft golf music.\n0:02–0:05 — Camera chases the ball through the air across the vivid green fairway. Ball descends fast and smashes directly into a tree trunk dead center. Loud crack. Ball ricochets off at a completely wild angle, spinning furiously across the course. SOUND: Comedy music kicks in instantly. Loud crack on impact. Ball spinning through air.\n0:05–0:08 — Ball bounces hard off a golf cart wheel at a ridiculous angle, sending it flying low across the fairway at full speed toward the next fairway. Cart rocks slightly from the impact. Ball leaving a trail through the air. SOUND: Metallic clang off the cart wheel. Ball whistling through air.\n0:08–0:10 — Ball hits an unsuspecting Pixar golfer square on top of the head with a hollow thud. His hat launches straight up into the air in slow motion. He freezes completely, both arms out, eyes wide, not sure what just happened. Ball continues rolling forward without slowing down. SOUND: Hollow thud. Slow motion hat whoosh. Golfer’s surprised yelp.\n0:10–0:12 — Ball rolls perfectly along the bright green putting surface, curving naturally, slowing down, dropping cleanly into the hole with a soft satisfying rattle. Camera holds on the ball sitting in the cup. SOUND: Comedy music stops instantly. Soft pleasant golf music returns. Ball rattling into cup.\n0:12–0:15 — Wide shot. Dave walks up slowly to the hole, looks down at the ball in the cup. Club still raised from the original swing. Mouth open. One eyebrow higher than the other. He looks back down the fairway — the cracked tree, the rocking cart, the hatless golfer standing frozen in the distance still looking up at where his hat went. Dave looks back at the ball. Slowly nods once. Taps the visor. Walks away. Fade to black. SOUND: One slow confident footstep. Soft golf music fades. Silence.\nCamera: medium tee shot, tracking shot following ball through air, close impact on tree, close ricochet off cart, slow motion head hit with hat flying, close ball rolling into cup, wide final shot of Dave and the full trail of chaos behind him.​​​​​​​​​​​​​​​​",
+        "type": "video"
+      }
+    ],
+    "author": {
+      "name": "TechieSA",
+      "username": "TechieBySA",
+      "avatar": "https://pbs.twimg.com/profile_images/1933182609758052352/k_CZpuNi_normal.jpg",
+      "verified": false,
+      "profileUrl": "https://x.com/TechieBySA"
+    },
+    "stats": {
+      "likes": 24,
+      "views": 818,
+      "retweets": 2
+    },
+    "postedAt": "1d",
+    "model": "Seedance 2.0",
+    "aspectRatio": "3:4",
+    "imageWidth": 1080,
+    "imageHeight": 1440,
+    "promptReady": true,
+    "localImages": [
+      "video-thumbnails/2057063819424256034.webp"
+    ],
+    "sourceCollection": "videos",
+    "cdnImages": [
+      "video-thumbnails/2057063819424256034.webp"
+    ],
+    "cdnImage": "video-thumbnails/2057063819424256034.webp",
+    "rawImages": [
+      "https://raw.githubusercontent.com/mrslimslim/awesome-prompt/main/video-thumbnails/2057063819424256034.webp"
+    ],
+    "rawImage": "https://raw.githubusercontent.com/mrslimslim/awesome-prompt/main/video-thumbnails/2057063819424256034.webp"
+  },
+  {
+    "id": "2056976928444469299",
+    "image": "https://images.meigen.ai/videos/2056976928444469299/thumb.jpg",
+    "mediaType": "video",
+    "videoUrl": "https://images.meigen.ai/videos/2056976928444469299/video.mp4",
+    "title": "{",
+    "prompt": "{\n  \"description\": \"10-second photorealistic cinematic video of a bright sunlit cozy kitchen breakfast nook where a sealed Nutella jar dramatically bursts into an elegant explosion of swirling chocolate, flying toast, hazelnuts, fruits, and drinks, then assembles into a perfect breakfast board in slow motion.\",\n  \"style\": \"photorealistic cinematic, ultra-realistic food photography, high detail textures, shiny chocolate, crisp toast, juicy fruits, elegant slow-motion, mouthwatering breakfast aesthetic\",\n  \"camera\": \"slow low-angle orbital shot around the jar (0-4s), smooth cinematic transition to overhead top-down reveal (5-9s), final close settle (9-10s)\",\n  \"lighting\": \"morning golden sunlight streaming in, soft warm glow with gentle highlights and shadows on chocolate and fruit\",\n  \"room\": \"cozy breakfast nook with wooden table, beige walls, soft white curtains, ceramic mugs, and hanging plants\",\n  \"elements\": [\n    \"sealed Nutella jar centered on table\",\n    \"thick glossy chocolate erupting in swirling ribbons and splashes\",\n    \"toasted bread slices with golden crust flying in\",\n    \"whole and cracked hazelnuts spinning and tumbling mid-air\",\n    \"sliced bananas and fresh strawberries tumbling gently\",\n    \"honey and syrup droplets sparkling in light\",\n    \"butter knife spreading Nutella smoothly onto flying toast\",\n    \"glass of cold milk and warm coffee cup floating into frame\",\n    \"powdered sugar and cocoa mist drifting like soft fog\"\n  ],\n  \"motion\": \"0-4s: jar vibrates, lid pops off, chocolate erupts upward while ingredients fly in gracefully. 5-9s: all elements assemble into an appetizing Nutella breakfast board as camera transitions overhead. 9-10s: single hazelnut rolls slowly to a stop beside the open jar with subtle steam rising.\",\n  \"ending\": \"a beautifully arranged Nutella breakfast board sits steaming on the rustic wooden table, chocolate glistening in the morning sunlight, irresistibly fresh and delicious\",\n  \"text\": \"none\",\n  \"keywords\": [\n    \"10 seconds\",\n    \"16:9\",\n    \"Nutella explosion\",\n    \"swirling chocolate\",\n    \"flying toast\",\n    \"hazelnuts\",\n    \"realistic food\",\n    \"breakfast aesthetic\",\n    \"slow motion\",\n    \"golden morning light\",\n    \"high detail\",\n    \"cinematic\",\n    \"photorealistic\"\n  ]\n}",
+    "author": {
+      "name": "Mr Das",
+      "username": "MrDasOnX",
+      "avatar": "https://pbs.twimg.com/profile_images/2036895445935620096/kFQqVc3F_normal.jpg",
+      "verified": false,
+      "profileUrl": "https://x.com/MrDasOnX"
+    },
+    "stats": {
+      "likes": 39,
+      "views": 464,
+      "retweets": 4
+    },
+    "postedAt": "1d",
+    "model": "Seedance 2.0",
+    "aspectRatio": "16:9",
+    "imageWidth": 1920,
+    "imageHeight": 1080,
+    "promptReady": true,
+    "localImages": [
+      "video-thumbnails/2056976928444469299.webp"
+    ],
+    "sourceCollection": "videos",
+    "cdnImages": [
+      "video-thumbnails/2056976928444469299.webp"
+    ],
+    "cdnImage": "video-thumbnails/2056976928444469299.webp",
+    "rawImages": [
+      "https://raw.githubusercontent.com/mrslimslim/awesome-prompt/main/video-thumbnails/2056976928444469299.webp"
+    ],
+    "rawImage": "https://raw.githubusercontent.com/mrslimslim/awesome-prompt/main/video-thumbnails/2056976928444469299.webp"
+  },
+  {
+    "id": "2056904361792716894",
+    "image": "https://images.meigen.ai/videos/2056904361792716894/thumb.jpg",
+    "mediaType": "video",
+    "videoUrl": "https://images.meigen.ai/videos/2056904361792716894/video.mp4",
+    "title": "Create a wide cinematic storyboard infographic (16:9) for...",
+    "prompt": "Create a wide cinematic storyboard infographic (16:9) for a 15-second luxury fashion film titled “Scan My Outfit.”\nStyle: ultra-realistic editorial photography with natural cinematic realism, inspired by Burberry, Dior, and Saint Laurent campaigns.\nSTYLE\nPhotorealistic, luxury street fashion, soft natural sunlight, shallow depth of field, subtle handheld camera feel, authentic skin and fabric detail. No cartoon or over-processed look.\nLAYOUT\nClean white background, thin black borders, grid-based design.\nInclude:\nTop reference strip (character, outfit, hair, makeup, accessories, lighting, camera style)\n7 numbered storyboard panels\nBottom technical production bar\nCHARACTER\nCharlotte Bennett — elegant British woman, late 20s.\nFair skin, hazel eyes, chestnut low bun, gold earrings.\nOutfit: burgundy blazer + mini skirt, light blue silk blouse, red leather bag, metallic heels.\nSTORYBOARD (7 PANELS)\nLondon Street Entrance – walking through luxury shopping street\nPhone Alert – phone lights up while walking\nGraceful Stop – pauses and answers call\n“Scan your outfit” – close-up reaction shot\n“I guess so” – soft reply with smile\nOutfit Scan – head-to-toe scan with fashion labels\nFinal Pose – confident editorial hero shot\nAUDIO\nMale voice: “Can you scan your outfit?”\nCharlotte: “I guess so.”\nTECH STYLE\niPhone cinematic look, 35mm lens, 24fps, HDR, soft stabilization, warm grading",
+    "promptSegments": [
+      {
+        "text": "Create a wide cinematic storyboard infographic (16:9) for a 15-second luxury fashion film titled “Scan My Outfit.”\nStyle: ultra-realistic editorial photography with natural cinematic realism, inspired by Burberry, Dior, and Saint Laurent campaigns.\nSTYLE\nPhotorealistic, luxury street fashion, soft natural sunlight, shallow depth of field, subtle handheld camera feel, authentic skin and fabric detail. No cartoon or over-processed look.\nLAYOUT\nClean white background, thin black borders, grid-based design.\nInclude:\nTop reference strip (character, outfit, hair, makeup, accessories, lighting, camera style)\n7 numbered storyboard panels\nBottom technical production bar\nCHARACTER\nCharlotte Bennett — elegant British woman, late 20s.\nFair skin, hazel eyes, chestnut low bun, gold earrings.\nOutfit: burgundy blazer + mini skirt, light blue silk blouse, red leather bag, metallic heels.\nSTORYBOARD (7 PANELS)\nLondon Street Entrance – walking through luxury shopping street\nPhone Alert – phone lights up while walking\nGraceful Stop – pauses and answers call\n“Scan your outfit” – close-up reaction shot\n“I guess so” – soft reply with smile\nOutfit Scan – head-to-toe scan with fashion labels\nFinal Pose – confident editorial hero shot\nAUDIO\nMale voice: “Can you scan your outfit?”\nCharlotte: “I guess so.”\nTECH STYLE\niPhone cinematic look, 35mm lens, 24fps, HDR, soft stabilization, warm grading",
+        "type": "image"
+      },
+      {
+        "text": "Photorealistic cinematic fashion video set on an elegant London shopping street inspired by Bond Street. A stylish British woman in her late 20s walks confidently past a luxury boutique. She wears gold earrings, a burgundy double-breasted blazer, matching mini skirt, a light blue ruffled silk blouse, a structured dark red leather shoulder bag, and metallic pointed heels. Her chestnut hair is styled in a sleek low bun.\nHer phone rings. She glances at the screen, stops gracefully, and answers. A male voice asks, “Hello there, can you please scan your outfit?” She smiles and replies in a soft British accent, “I guess so.”\nThe camera performs a smooth head-to-toe scan, displaying elegant text labels for each outfit item, then ends on a confident editorial pose in front of the boutique window.\nBright natural sunlight, shallow depth of field, smooth gimbal movement, luxury editorial aesthetic, polished and sophisticated mood, 9:16 vertical, 15 seconds.",
+        "type": "video"
+      }
+    ],
+    "author": {
+      "name": "Shami",
+      "username": "ShamiWeb3",
+      "avatar": "https://pbs.twimg.com/profile_images/2038642690037067776/ol3XyDR1_normal.jpg",
+      "verified": false,
+      "profileUrl": "https://x.com/ShamiWeb3"
+    },
+    "stats": {
+      "likes": 157,
+      "views": 7043,
+      "retweets": 12
+    },
+    "postedAt": "1d",
+    "model": "Seedance 2.0",
+    "aspectRatio": "4:5",
+    "imageWidth": 720,
+    "imageHeight": 900,
+    "promptReady": true,
+    "localImages": [
+      "video-thumbnails/2056904361792716894.webp"
+    ],
+    "sourceCollection": "videos",
+    "cdnImages": [
+      "video-thumbnails/2056904361792716894.webp"
+    ],
+    "cdnImage": "video-thumbnails/2056904361792716894.webp",
+    "rawImages": [
+      "https://raw.githubusercontent.com/mrslimslim/awesome-prompt/main/video-thumbnails/2056904361792716894.webp"
+    ],
+    "rawImage": "https://raw.githubusercontent.com/mrslimslim/awesome-prompt/main/video-thumbnails/2056904361792716894.webp"
+  },
+  {
+    "id": "2056449392539001260",
+    "image": "https://images.meigen.ai/videos/2056449392539001260/thumb.jpg",
+    "mediaType": "video",
+    "videoUrl": "https://images.meigen.ai/videos/2056449392539001260/video.mp4",
+    "title": "Animation Style & VibeStyle: Vibrant, cinematic 3D cartoo...",
+    "prompt": "Animation Style & VibeStyle: Vibrant, cinematic 3D cartoon (think DreamWorks or Crash Bandicoot). Detailed textures with stylized, expressive physics.Character: Dash, a daring, jacket-wearing fox cub holding a glowing ancient artifact.The Adventure Storyboard (15 Seconds Total)Scene 1 (0:00 - 0:03) | The Great EscapeVisual: Dash bursts out of a crumbling temple door, clutching a glowing ruby idol. Right behind him, the stone doorway collapses into https://t.co/uTvGRy9PIZ Movement: Extreme Low-Angle Hero Shot. The camera is positioned on the ground looking up. It flies backward at breakneck speed just ahead of Dash as he sprints toward the screen, dust and debris flying past the lens.Scene 2 (0:03 - 0:06) | The Boulder ChaseVisual: Dash looks over his shoulder in terror. A colossal, smiling stone boulder with ancient carvings is roaring down the temple ramp right after https://t.co/epvLq6NigL Movement: High-Angle Reversed Tracking. The camera smoothly transitions to a high angle, looking down from the front of the rolling boulder, showing just how perilously close it is to flattening Dash.Scene 3 (0:06 - 0:09) | The Leap of FaithVisual: The temple path suddenly ends! Dash reaches a massive cliff edge overlooking a misty jungle canyon. Without hesitating, he leaps out into the open https://t.co/pj9A4kBzYH Movement: Side-Profile Jib Shot. The camera pans smoothly to a wide profile view, tracking Dash as he launches horizontally across the screen in slow-motion, silhouetted against a giant jungle sunset.Scene 4 (0:09 - 0:12) | The Canopy GrindVisual: Dash lands perfectly onto a massive, slick jungle vine. He uses his boots to grind down the vine like a snowboard, sparking bright green jungle energy as he twists and https://t.co/Yq6FdiWMxH Movement: First-Person POV / Over-the-Shoulder. The camera snaps tightly behind Dash's shoulder, tilting and banking wildly with him as he weaves through the dense, colorful jungle branches.Scene 5 (0:12 - 0:15) | The Safe LandingVisual: The vine launches Dash onto a soft, bouncy giant mushroom. He bounces high, lands on his feet in a heroic pose, and proudly holds up the ruby idol, which flashes a spark of https://t.co/KMYu6QEcZL Movement: Dynamic Spiral & Snap Close-Up. The camera spirals upward from the base of the mushroom, following his bounce, and instantly snaps into a tight, slightly tilted close-up of Dash giving a confident, adventurous wink.",
+    "author": {
+      "name": "Iqra Saifi",
+      "username": "IqraSaifiii",
+      "avatar": "https://pbs.twimg.com/profile_images/2023752357360922626/RGPKYeGZ_normal.jpg",
+      "verified": false,
+      "profileUrl": "https://x.com/IqraSaifiii"
+    },
+    "stats": {
+      "likes": 139,
+      "views": 9194,
+      "retweets": 17
+    },
+    "postedAt": "2d",
+    "model": "Seedance 2.0",
+    "aspectRatio": "16:9",
+    "imageWidth": 1280,
+    "imageHeight": 720,
+    "promptReady": true,
+    "localImages": [
+      "video-thumbnails/2056449392539001260.webp"
+    ],
+    "sourceCollection": "videos",
+    "cdnImages": [
+      "video-thumbnails/2056449392539001260.webp"
+    ],
+    "cdnImage": "video-thumbnails/2056449392539001260.webp",
+    "rawImages": [
+      "https://raw.githubusercontent.com/mrslimslim/awesome-prompt/main/video-thumbnails/2056449392539001260.webp"
+    ],
+    "rawImage": "https://raw.githubusercontent.com/mrslimslim/awesome-prompt/main/video-thumbnails/2056449392539001260.webp"
+  },
+  {
+    "id": "2056372974765175067",
+    "image": "https://images.meigen.ai/videos/2056372974765175067/thumb.jpg",
+    "mediaType": "video",
+    "videoUrl": "https://images.meigen.ai/videos/2056372974765175067/video.mp4",
+    "title": "Create a 16:9 character concept sheet for a celestial voy...",
+    "prompt": "Create a 16:9 character concept sheet for a celestial voyager in an epic cinematic sci-fi fantasy aesthetic.\n\nShow 4 distinct views of the same character in a clean concept-art layout:\n\nsymmetrical full-body front view\nfull-body side profile\nfull-body back view\nhyper-detailed close-up portrait of the face\n\nThe character is a solitary celestial traveler with an elegant white-and-gold ritualistic armored design.\nHe wears ornate futuristic armor with intricate geometric filigree, sacred celestial motifs, flowing layered cloak fabric, and a halo-like circular structure behind the head and upper back.\nThe armor should feel ancient yet highly advanced, blending sci-fi technology with spiritual ceremonial design.\nThe face should appear mysterious, noble, and otherworldly, with an alien-mask-like structure or refined humanoid facial design, enhanced by glowing amber energy lines and a luminous circular forehead symbol.\nInclude a glowing chest core or energy emblem integrated into the armor.\nOverall silhouette should be regal, tall, elegant, and powerful.\nLighting should be intense warm orange and amber, with extreme high contrast.\nUse aggressive backlighting and strong rim lighting to create sharp specular highlights against deep shadows.\nAdd volumetric light rays, subtle anamorphic lens flares, dust particles, micro-debris, and a slightly atmospheric celestial haze.\n\nThe background should be clean white or near-white, minimal and uncluttered, so the character design remains the focus.\nKeep the presentation polished like a premium AAA character design sheet.\nStyle: photorealistic, cinematic, ultra-detailed, 8k, atmospheric depth, elegant sci-fi fantasy concept art.",
+    "promptSegments": [
+      {
+        "text": "Create a 16:9 character concept sheet for a celestial voyager in an epic cinematic sci-fi fantasy aesthetic.\n\nShow 4 distinct views of the same character in a clean concept-art layout:\n\nsymmetrical full-body front view\nfull-body side profile\nfull-body back view\nhyper-detailed close-up portrait of the face\n\nThe character is a solitary celestial traveler with an elegant white-and-gold ritualistic armored design.\nHe wears ornate futuristic armor with intricate geometric filigree, sacred celestial motifs, flowing layered cloak fabric, and a halo-like circular structure behind the head and upper back.\nThe armor should feel ancient yet highly advanced, blending sci-fi technology with spiritual ceremonial design.\nThe face should appear mysterious, noble, and otherworldly, with an alien-mask-like structure or refined humanoid facial design, enhanced by glowing amber energy lines and a luminous circular forehead symbol.\nInclude a glowing chest core or energy emblem integrated into the armor.\nOverall silhouette should be regal, tall, elegant, and powerful.\nLighting should be intense warm orange and amber, with extreme high contrast.\nUse aggressive backlighting and strong rim lighting to create sharp specular highlights against deep shadows.\nAdd volumetric light rays, subtle anamorphic lens flares, dust particles, micro-debris, and a slightly atmospheric celestial haze.\n\nThe background should be clean white or near-white, minimal and uncluttered, so the character design remains the focus.\nKeep the presentation polished like a premium AAA character design sheet.\nStyle: photorealistic, cinematic, ultra-detailed, 8k, atmospheric depth, elegant sci-fi fantasy concept art.",
+        "type": "image"
+      },
+      {
+        "text": "Same main character [image1] throughout all shots: the celestial voyager from the reference image, wearing the same white-and-gold ritual sci-fi armor, flowing cloak, circular halo structure, glowing amber facial core, ornate geometric details, and elegant alien mask-like face. No side character. Same environment throughout all shots: minimal abstract white void / cracked stone surface, sparse floating debris, dust particles, high contrast lighting, warm amber energy accents, clean cinematic negative space. STYLE: raw cinematic action previs mixed with refined sci-fi animation, black-and-white storyboard-inspired motion translated into polished cinematic video, sharp silhouettes, dynamic motion clarity, flowing cloth physics, fast martial-arts choreography, stylized amber VFX accents, high contrast white-and-gold palette, aggressive camera movement, readable action staging, epic spiritual sci-fi atmosphere. IMPORTANT: keep the character design consistent in every shot. Maintain the same armor proportions, halo placement, cloak length, mask shape, glowing amber core, gold trim, and elegant celestial silhouette. Do not change the character into a different creature. No enemies, no extra characters, no logos, no text, no watermark, no dialogue, no singing. Do not make it stop motion. Use smooth continuous animation, realistic cloth inertia, sharp acceleration, impact force, dust displacement, and strong body momentum. [00:00 – 00:01.8]SHOT 1 — WIDE HANDHELD ENTRYThe celestial voyager is already mid-motion, dropping into a powerful sweeping martial stance while one arm cuts across the frame and the cloak whips violently behind. Dust wakes from the ground as the body twists with strong momentum. Amber energy flickers subtly around the chest core and halo. Camera: wide handheld shot, slight whip-pan to the right, low parallax, energetic but readable. [00:01.8 – 00:03.4]SHOT 2 — EXTREME FACE PUSH-INCut to an aggressive close-up of the voyager’s face. The glowing amber eye-core and forehead symbol pulse brighter as the head turns sharply toward camera. Micro-debris floats past the lens. The armor collar and halo edges catch hard rim light. Camera: fast push-in, 85mm compressed close-up, subtle shake from internal energy pressure. [00:03.4 – 00:05.3]SHOT 3 — ORBITING SPIN STRIKEThe voyager launches into a wide circular spinning strike, cloak and layered armor panels forming a vortex shape around the body. One leg rises, arms carve through the air, and dust trails spiral outward. Camera: orbit left around the character, wide lens, smooth but intense circular motion. [00:05.3 – 00:07.0]SHOT 4 — IMPACT DROPThe voyager crashes downward into a vertical impact strike. The ground fractures beneath the landing point, sending shards and dust upward in a sharp burst. Amber shock energy flashes from the chest core into the floor. Camera: close impact shot, quick zoom-in at the moment of contact, strong downward motion. [00:07.0 – 00:08.7]SHOT 5 — SIDE PROFILE DASHSide profile shot. The voyager compresses low and explodes forward in a fast horizontal dash, arm extended like a blade. The cloak stretches into long motion streaks and the halo leaves a faint amber trail. Camera: long-lens side tracking shot, compressed perspective, speed lines and dust dragging behind. [00:08.7 – 00:10.5]SHOT 6 — OVERHEAD AERIAL ROTATIONFrom above, the voyager spins through the air in a controlled aerial rotation. The cloak opens like a circular celestial fan, creating a visible energy ring beneath the body. Floating debris rotates around the motion path. Camera: high-angle overhead shot, slight tilt down, orbiting with the body rotation. [00:10.5 – 00:12.4]SHOT 7 — LOW ANGLE STOMPThe voyager drives one foot into the ground with brutal force. The camera is near the floor, making the stomp feel massive. Cracks spread outward, dust erupts, and the amber core flares across the armor lines. Camera: extreme low angle, dutch tilt upward, slight impact shake at contact. [00:12.4 – 00:15.0]FINAL SHOT — FLOOR LEVEL SLIDE SURGEThe voyager slides across the cracked surface at floor level, one leg extended, one arm cutting forward, cloak streaming behind in a violent diagonal shape. Dust skids along the ground while amber energy gathers into the strongest combined surge around the halo, chest core, and cloak edges. The motion continues forward instead of freezing, ending on a powerful moving silhouette as the energy trails fade naturally. Camera: floor-level tracking shot moving with the slide, slight push-forward, dynamic parallax, natural fade to black. GLOBAL: maintain exact storyboard continuity from panel 1 to panel 8. Keep the same character proportions every shot, same white-and-gold armor, same amber glow, same circular halo, same minimal white void environment, same lighting direction, same cracked ground surface, and same VFX language. Cloth reacts naturally to acceleration, turns, impacts, wind, and body rotation. Hair and small armor ornaments react to motion. Every shot must contain visible movement and body momentum. No static posing. No stop motion. No comedic tone. Make it epic, spiritual, aggressive, cinematic, smooth, and physically powerful.",
+        "type": "video"
+      }
+    ],
+    "author": {
+      "name": "Okan Can",
+      "username": "0kncn",
+      "avatar": "https://pbs.twimg.com/profile_images/2017790023584698368/EEWbBQ9P_normal.jpg",
+      "verified": false,
+      "profileUrl": "https://x.com/0kncn"
+    },
+    "stats": {
+      "likes": 436,
+      "views": 19964,
+      "retweets": 45
+    },
+    "postedAt": "3d",
+    "model": "Seedance 2.0",
+    "aspectRatio": "44:49",
+    "imageWidth": 2160,
+    "imageHeight": 2404,
+    "promptReady": true,
+    "localImages": [
+      "video-thumbnails/2056372974765175067.webp"
+    ],
+    "sourceCollection": "videos",
+    "cdnImages": [
+      "video-thumbnails/2056372974765175067.webp"
+    ],
+    "cdnImage": "video-thumbnails/2056372974765175067.webp",
+    "rawImages": [
+      "https://raw.githubusercontent.com/mrslimslim/awesome-prompt/main/video-thumbnails/2056372974765175067.webp"
+    ],
+    "rawImage": "https://raw.githubusercontent.com/mrslimslim/awesome-prompt/main/video-thumbnails/2056372974765175067.webp"
+  },
+  {
+    "id": "2056208351445614894",
+    "image": "https://images.meigen.ai/videos/2056208351445614894/thumb.jpg",
+    "mediaType": "video",
+    "videoUrl": "https://images.meigen.ai/videos/2056208351445614894/video.mp4",
+    "title": "An intense, cinematic, slow-motion action sequence on a d...",
+    "prompt": "An intense, cinematic, slow-motion action sequence on a damp, overcast city street during dusk. A young Asian man in a black hoodie is in a tight, fast-paced hand-to-hand martial arts fight with a glowing, high-tech holographic or energy-based blue dynamic cyborg. The camera dynamic moves quickly, capturing sharp dodges, blocks, and misses.\nVFX & Transformation Sequence: The man jumps back into a defensive stance. A close-up reveals his forearm glowing with intricate, incandescent orange and gold circuit patterns, emitting light steam. With a dramatic fist clench, an explosion of golden sparks and metallic nano-particles erupts, rapidly morphing and crawling up his arm to form a high-tech gold and black metallic gauntlet. The camera pans out as the nano-armor swiftly encases his entire body, forming a sleek, studio-quality gold and black exo-suit with a fabric hood. The hero extends his arm, generating a swirling vortex of golden energy that fires a powerful concentrated beam across the street, illuminating the wet asphalt.\nLighting & Atmosphere: Moody, desaturated overcast daytime lighting with a soft sunset glow in the background. The scene features highly reflective surfaces—wet ground, glossy cars (Hyundai SUV), and polished metallic armor. The hero’s helmet features a smooth, reflective gold visor that suddenly activates, glowing with sharp, vibrant orange LED eyes. Ultra-detailed, photorealistic, 8k resolution, cinematic composition, Hollywood-style visual effects.",
+    "author": {
+      "name": "Zyrella",
+      "username": "Zyrellix",
+      "avatar": "https://pbs.twimg.com/profile_images/2050483594041434112/ubZMY0oR_normal.jpg",
+      "verified": false,
+      "profileUrl": "https://x.com/Zyrellix"
+    },
+    "stats": {
+      "likes": 189,
+      "views": 6837,
+      "retweets": 10
+    },
+    "postedAt": "3d",
+    "model": "Seedance 2.0",
+    "aspectRatio": "16:9",
+    "imageWidth": 1280,
+    "imageHeight": 720,
+    "promptReady": true,
+    "localImages": [
+      "video-thumbnails/2056208351445614894.webp"
+    ],
+    "sourceCollection": "videos",
+    "cdnImages": [
+      "video-thumbnails/2056208351445614894.webp"
+    ],
+    "cdnImage": "video-thumbnails/2056208351445614894.webp",
+    "rawImages": [
+      "https://raw.githubusercontent.com/mrslimslim/awesome-prompt/main/video-thumbnails/2056208351445614894.webp"
+    ],
+    "rawImage": "https://raw.githubusercontent.com/mrslimslim/awesome-prompt/main/video-thumbnails/2056208351445614894.webp"
+  },
+  {
+    "id": "2056092388418810047",
+    "image": "https://images.meigen.ai/videos/2056092388418810047/thumb.jpg",
+    "mediaType": "video",
+    "videoUrl": "https://images.meigen.ai/videos/2056092388418810047/video.mp4",
+    "title": "{",
+    "prompt": "{\n  \"Objective\": \"Generate a clean TikTok dance storyboard in a 16:9 layout with 9 panels, combining minimal skincare-inspired aesthetics with engaging dance movements.\",\n  \"Persona_Details\": {\n    \"Main_Character\": {\n      \"Description\": \"An adult Japanese woman with striking beauty and a sensual, confident presence\",\n      \"Wardrobe\": \"Simple shorts with a minimal, stylish top\",\n      \"Expression\": \"Confident, soft, expressive, camera-aware\"\n    },\n    \"Target_Audience\": \"TikTok users interested in dance trends, beauty, and minimalist aesthetics\"\n  },\n  \"Visual_Style\": {\n    \"Lighting\": \"Soft natural lighting with even exposure and gentle highlights\",\n    \"Aesthetic\": \"Clean, minimal, modern smartphone-style visuals\",\n    \"Color_Palette\": \"Neutral tones, soft whites, and natural skin tones\",\n    \"Background\": \"Plain dance studio background with no distractions\"\n  },\n  \"Camera_Style\": {\n    \"Aspect_Ratio\": \"16:9\",\n    \"Framing\": \"Smartphone-inspired composition with a mix of wide, medium, and close-up shots\",\n    \"Movement\": \"Subtle handheld or stabilized movement for an organic TikTok feel\"\n  },\n  \"Storyboard_Panels\": [\n    {\n      \"Panel\": 1,\n      \"Shot_Type\": \"Wide\",\n      \"Description\": \"Character centered in studio, neutral pose\",\n      \"Action\": \"Pre-dance stance, slight sway\"\n    },\n    {\n      \"Panel\": 2,\n      \"Shot_Type\": \"Medium\",\n      \"Description\": \"Upper body focus\",\n      \"Action\": \"Arm wave movement begins\"\n    },\n    {\n      \"Panel\": 3,\n      \"Shot_Type\": \"Close-up\",\n      \"Description\": \"Face and shoulders\",\n      \"Action\": \"Soft expression, subtle head movement\"\n    },\n    {\n      \"Panel\": 4,\n      \"Shot_Type\": \"Medium-wide\",\n      \"Description\": \"Torso and hips visible\",\n      \"Action\": \"Hip sway synchronized with beat\"\n    },\n    {\n      \"Panel\": 5,\n      \"Shot_Type\": \"Tracking\",\n      \"Description\": \"Slight camera movement\",\n      \"Action\": \"Step and turn combination\"\n    },\n    {\n      \"Panel\": 6,\n      \"Shot_Type\": \"Close-up\",\n      \"Description\": \"Hair and face emphasis\",\n      \"Action\": \"Hair flip with confident expression\"\n    },\n    {\n      \"Panel\": 7,\n      \"Shot_Type\": \"Wide\",\n      \"Description\": \"Full body in frame\",\n      \"Action\": \"Full dance combo sequence\"\n    },\n    {\n      \"Panel\": 8,\n      \"Shot_Type\": \"Medium\",\n      \"Description\": \"Upper body focus\",\n      \"Action\": \"Signature TikTok pose and gesture\"\n    },\n    {\n      \"Panel\": 9,\n      \"Shot_Type\": \"Close-up\",\n      \"Description\": \"Final frame\",\n      \"Action\": \"Direct eye contact with subtle smile\"\n    }\n  ],\n  \"Task_Instructions\": [\n    \"Ensure smooth transitions between each panel to simulate a TikTok flow\",\n    \"Maintain a minimal and uncluttered composition\",\n    \"Keep lighting soft and flattering throughout\",\n    \"Focus on expressive dance movements and camera engagement\",\n    \"Preserve a smartphone-style visual authenticity\"\n  ],\n  \"Response_Format\": {\n    \"Type\": \"Storyboard JSON\",\n    \"Panels\": 9,\n    \"Aspect_Ratio\": \"16:9\",\n    \"Style\": \"Minimal TikTok dance storyboard\"\n  }\n}",
+    "promptSegments": [
+      {
+        "text": "{\n  \"Objective\": \"Generate a clean TikTok dance storyboard in a 16:9 layout with 9 panels, combining minimal skincare-inspired aesthetics with engaging dance movements.\",\n  \"Persona_Details\": {\n    \"Main_Character\": {\n      \"Description\": \"An adult Japanese woman with striking beauty and a sensual, confident presence\",\n      \"Wardrobe\": \"Simple shorts with a minimal, stylish top\",\n      \"Expression\": \"Confident, soft, expressive, camera-aware\"\n    },\n    \"Target_Audience\": \"TikTok users interested in dance trends, beauty, and minimalist aesthetics\"\n  },\n  \"Visual_Style\": {\n    \"Lighting\": \"Soft natural lighting with even exposure and gentle highlights\",\n    \"Aesthetic\": \"Clean, minimal, modern smartphone-style visuals\",\n    \"Color_Palette\": \"Neutral tones, soft whites, and natural skin tones\",\n    \"Background\": \"Plain dance studio background with no distractions\"\n  },\n  \"Camera_Style\": {\n    \"Aspect_Ratio\": \"16:9\",\n    \"Framing\": \"Smartphone-inspired composition with a mix of wide, medium, and close-up shots\",\n    \"Movement\": \"Subtle handheld or stabilized movement for an organic TikTok feel\"\n  },\n  \"Storyboard_Panels\": [\n    {\n      \"Panel\": 1,\n      \"Shot_Type\": \"Wide\",\n      \"Description\": \"Character centered in studio, neutral pose\",\n      \"Action\": \"Pre-dance stance, slight sway\"\n    },\n    {\n      \"Panel\": 2,\n      \"Shot_Type\": \"Medium\",\n      \"Description\": \"Upper body focus\",\n      \"Action\": \"Arm wave movement begins\"\n    },\n    {\n      \"Panel\": 3,\n      \"Shot_Type\": \"Close-up\",\n      \"Description\": \"Face and shoulders\",\n      \"Action\": \"Soft expression, subtle head movement\"\n    },\n    {\n      \"Panel\": 4,\n      \"Shot_Type\": \"Medium-wide\",\n      \"Description\": \"Torso and hips visible\",\n      \"Action\": \"Hip sway synchronized with beat\"\n    },\n    {\n      \"Panel\": 5,\n      \"Shot_Type\": \"Tracking\",\n      \"Description\": \"Slight camera movement\",\n      \"Action\": \"Step and turn combination\"\n    },\n    {\n      \"Panel\": 6,\n      \"Shot_Type\": \"Close-up\",\n      \"Description\": \"Hair and face emphasis\",\n      \"Action\": \"Hair flip with confident expression\"\n    },\n    {\n      \"Panel\": 7,\n      \"Shot_Type\": \"Wide\",\n      \"Description\": \"Full body in frame\",\n      \"Action\": \"Full dance combo sequence\"\n    },\n    {\n      \"Panel\": 8,\n      \"Shot_Type\": \"Medium\",\n      \"Description\": \"Upper body focus\",\n      \"Action\": \"Signature TikTok pose and gesture\"\n    },\n    {\n      \"Panel\": 9,\n      \"Shot_Type\": \"Close-up\",\n      \"Description\": \"Final frame\",\n      \"Action\": \"Direct eye contact with subtle smile\"\n    }\n  ],\n  \"Task_Instructions\": [\n    \"Ensure smooth transitions between each panel to simulate a TikTok flow\",\n    \"Maintain a minimal and uncluttered composition\",\n    \"Keep lighting soft and flattering throughout\",\n    \"Focus on expressive dance movements and camera engagement\",\n    \"Preserve a smartphone-style visual authenticity\"\n  ],\n  \"Response_Format\": {\n    \"Type\": \"Storyboard JSON\",\n    \"Panels\": 9,\n    \"Aspect_Ratio\": \"16:9\",\n    \"Style\": \"Minimal TikTok dance storyboard\"\n  }\n}",
+        "type": "image"
+      },
+      {
+        "text": "Generate a complete video based on the storyboard.",
+        "type": "video"
+      }
+    ],
+    "author": {
+      "name": "Keskin",
+      "username": "craftian_keskin",
+      "avatar": "https://pbs.twimg.com/profile_images/2006749920166834176/Bxu2ZmbE_normal.jpg",
+      "verified": false,
+      "profileUrl": "https://x.com/craftian_keskin"
+    },
+    "stats": {
+      "likes": 263,
+      "views": 10668,
+      "retweets": 29
+    },
+    "postedAt": "3d",
+    "model": "Seedance 2.0",
+    "aspectRatio": "3:4",
+    "imageWidth": 1080,
+    "imageHeight": 1440,
+    "promptReady": true,
+    "localImages": [
+      "video-thumbnails/2056092388418810047.webp"
+    ],
+    "sourceCollection": "videos",
+    "cdnImages": [
+      "video-thumbnails/2056092388418810047.webp"
+    ],
+    "cdnImage": "video-thumbnails/2056092388418810047.webp",
+    "rawImages": [
+      "https://raw.githubusercontent.com/mrslimslim/awesome-prompt/main/video-thumbnails/2056092388418810047.webp"
+    ],
+    "rawImage": "https://raw.githubusercontent.com/mrslimslim/awesome-prompt/main/video-thumbnails/2056092388418810047.webp"
+  },
+  {
+    "id": "2056061626625688059",
+    "image": "https://images.meigen.ai/videos/2056061626625688059/thumb.jpg",
+    "mediaType": "video",
+    "videoUrl": "https://images.meigen.ai/videos/2056061626625688059/video.mp4",
+    "title": "Create a crisp, clean infographic storyboard poster for T...",
+    "prompt": "Create a crisp, clean infographic storyboard poster for THE LUNCHBOX MOM. Wide 16:9 layout, white background, black borders, bold black typography, premium Pixar 3D stylized rendering, bright warm colors — soft bread whites, vivid green lettuce, pale yellow cheese, pink turkey, orange carrots, deep purple grapes, warm golden morning kitchen light.\nTop header:\n\nTHE LUNCHBOX MOM\nTOTAL VIDEO TIME: 12 SECONDS\n8 SHOTS · QUIET · TENDER · MADE WITH LOVE\nLegend icons: ACTION, HEAT, TIME HINT, INGREDIENT\n\nSame Pixar-style young mom throughout — warm dusty rose t-shirt, hair loosely tied, soft kind face, cozy bright home kitchen, early morning light just coming through the window. CRITICAL: The lunchbox must be identical in every single panel it appears — same pink color, same size, same sections, same position. It must never change shape, color, or layout between any shot.\n8 panels:\nPanel 1 — THE OPENER: Wide shot. The exact pink sectioned lunchbox sits closed on the kitchen counter. Mom's hands pop it open with both thumbs — lid clicks open revealing all empty sections inside. Same pink lunchbox, same sections, clearly established here so every subsequent panel matches it exactly. Early morning golden light floods the kitchen.\nPanel 2 — THE MUSTARD: Close-up. Two slices of soft white bread on the cutting board. All ingredients laid out visibly on the counter beside the board — mustard jar open, turkey packet, cheese slices, lettuce head. Mom spreads mustard across one slice slowly and carefully with a butter knife. The same pink lunchbox visible in the background, closed, same as panel 1.\nPanel 3 — THE BUILD: Medium shot with mom fully visible. She layers the sandwich on the cutting board — all ingredients still visible on the counter around her. Pink turkey placed first, yellow cheese folded over, then vivid green lettuce added last, leaves spilling over the edges. Green, yellow, pink all stacked beautifully. Same pink lunchbox visible in the background.\nPanel 4 — THE CUT: Close-up dramatic shot. Knife comes down diagonally through the sandwich in one clean confident cut — two perfect triangles separated, colorful cross-section of turkey, cheese and lettuce fully revealed. Green, yellow, pink all exposed on the cut edge. The most satisfying panel.\nPanel 5 — THE SANDWICH IN: Close-up overhead. The exact same pink lunchbox from panel 1 — identical color, identical sections, identical layout. Mom places the two sandwich triangles into the largest section, colorful cross-section facing up. All other sections completely empty — nothing else in the box yet. Just the sandwich, perfectly placed, waiting.\nPanel 6 — THE CHOP: Close-up side angle. Mom's knife chopping whole baby carrots on the cutting board — elongated like a toddler's finger, smooth and tapered, bright vivid orange. The knife cuts through them rhythmically, pieces falling to the side. A small cluster of deep purple grapes sits already washed beside them on the board. Two vivid colors side by side.\nPanel 7 — THE FILL: Overhead locked shot. The exact same pink lunchbox — identical to every previous panel, same sections, same color, same layout. Mom fills the remaining empty sections — chopped baby carrots placed neatly into one section, bright orange. Purple grapes carefully placed into another. Small juice box tucked into the last remaining section. Every section now full. Beautiful and complete from above.\nPanel 8 — THE NOTE: The hero frame and emotional landing. Close-up. The exact same pink lunchbox sits fully closed on the counter to one side — lid shut, complete. On the counter surface BESIDE the closed lunchbox, completely separate from it, mom's hand writes on a small square note card with a pen — a small heart drawn first, then the words \"I love you. Have the best day.\" The note is being written on the counter next to the closed lunchbox, not inside it, not on the food. She will tuck it inside after. The last act of love before the morning box.",
+    "promptSegments": [
+      {
+        "text": "Create a crisp, clean infographic storyboard poster for THE LUNCHBOX MOM. Wide 16:9 layout, white background, black borders, bold black typography, premium Pixar 3D stylized rendering, bright warm colors — soft bread whites, vivid green lettuce, pale yellow cheese, pink turkey, orange carrots, deep purple grapes, warm golden morning kitchen light.\nTop header:\n\nTHE LUNCHBOX MOM\nTOTAL VIDEO TIME: 12 SECONDS\n8 SHOTS · QUIET · TENDER · MADE WITH LOVE\nLegend icons: ACTION, HEAT, TIME HINT, INGREDIENT\n\nSame Pixar-style young mom throughout — warm dusty rose t-shirt, hair loosely tied, soft kind face, cozy bright home kitchen, early morning light just coming through the window. CRITICAL: The lunchbox must be identical in every single panel it appears — same pink color, same size, same sections, same position. It must never change shape, color, or layout between any shot.\n8 panels:\nPanel 1 — THE OPENER: Wide shot. The exact pink sectioned lunchbox sits closed on the kitchen counter. Mom's hands pop it open with both thumbs — lid clicks open revealing all empty sections inside. Same pink lunchbox, same sections, clearly established here so every subsequent panel matches it exactly. Early morning golden light floods the kitchen.\nPanel 2 — THE MUSTARD: Close-up. Two slices of soft white bread on the cutting board. All ingredients laid out visibly on the counter beside the board — mustard jar open, turkey packet, cheese slices, lettuce head. Mom spreads mustard across one slice slowly and carefully with a butter knife. The same pink lunchbox visible in the background, closed, same as panel 1.\nPanel 3 — THE BUILD: Medium shot with mom fully visible. She layers the sandwich on the cutting board — all ingredients still visible on the counter around her. Pink turkey placed first, yellow cheese folded over, then vivid green lettuce added last, leaves spilling over the edges. Green, yellow, pink all stacked beautifully. Same pink lunchbox visible in the background.\nPanel 4 — THE CUT: Close-up dramatic shot. Knife comes down diagonally through the sandwich in one clean confident cut — two perfect triangles separated, colorful cross-section of turkey, cheese and lettuce fully revealed. Green, yellow, pink all exposed on the cut edge. The most satisfying panel.\nPanel 5 — THE SANDWICH IN: Close-up overhead. The exact same pink lunchbox from panel 1 — identical color, identical sections, identical layout. Mom places the two sandwich triangles into the largest section, colorful cross-section facing up. All other sections completely empty — nothing else in the box yet. Just the sandwich, perfectly placed, waiting.\nPanel 6 — THE CHOP: Close-up side angle. Mom's knife chopping whole baby carrots on the cutting board — elongated like a toddler's finger, smooth and tapered, bright vivid orange. The knife cuts through them rhythmically, pieces falling to the side. A small cluster of deep purple grapes sits already washed beside them on the board. Two vivid colors side by side.\nPanel 7 — THE FILL: Overhead locked shot. The exact same pink lunchbox — identical to every previous panel, same sections, same color, same layout. Mom fills the remaining empty sections — chopped baby carrots placed neatly into one section, bright orange. Purple grapes carefully placed into another. Small juice box tucked into the last remaining section. Every section now full. Beautiful and complete from above.\nPanel 8 — THE NOTE: The hero frame and emotional landing. Close-up. The exact same pink lunchbox sits fully closed on the counter to one side — lid shut, complete. On the counter surface BESIDE the closed lunchbox, completely separate from it, mom's hand writes on a small square note card with a pen — a small heart drawn first, then the words \"I love you. Have the best day.\" The note is being written on the counter next to the closed lunchbox, not inside it, not on the food. She will tuck it inside after. The last act of love before the morning box.",
+        "type": "image"
+      },
+      {
+        "text": "Use the attached THE LUNCHBOX MOM storyboard image as the exact visual reference. Create a 12-second 16:9 animated lunchbox sequence that follows the 8-shot storyboard exactly. Preserve the same Pixar-style young mom, warm dusty rose t-shirt, cozy bright home kitchen, and the exact same pink sectioned lunchbox appearing identically in every shot throughout.\nRules:\nFollow the sequence exactly from 1 to 8\nOne shot per panel, approximately 1.5 seconds each\nThe pink lunchbox must be identical in every shot — same color, same sections, same size, never changing\nMaintain mom character continuity throughout\nEmphasize the mustard spread, sandwich build colors, diagonal cut reveal, and the note writing at the end\nShot sequence:\nWide shot. Pink sectioned lunchbox sits closed on the kitchen counter. Mom's hands pop it open with both thumbs — lid clicks open, all empty sections revealed. Early morning golden light floods the kitchen behind her.\nClose-up. Two bread slices on the cutting board. All ingredients visible on the counter — mustard jar, turkey, cheese, lettuce. Mom spreads mustard across one slice slowly and carefully with a butter knife.\nMedium shot with mom fully visible. She layers the sandwich — turkey placed first, yellow cheese folded over, vivid green lettuce added last, leaves spilling over the edges. All ingredients still visible on the counter around her.\nClose-up dramatic. Single knife comes down diagonally from corner to corner through the sandwich in one clean cut — two perfect triangles separated, colorful cross-section of turkey, cheese and lettuce fully revealed. Green, yellow, pink all exposed.\nClose-up. Mom uses both hands to carefully pick up the two sandwich triangles and lower them gently into the largest section of the open pink lunchbox — placing them with care, colorful cross-section facing up. Both hands visible, deliberate and tender. All other sections completely empty still.\nClose-up side angle. Mom's single knife chopping baby carrots on the wooden board — one knife, natural grip, blade pressing straight down, bright orange pieces falling to the side. Deep purple grapes in a cluster beside them already washed and ready.\nClose-up. Mom's hands scooping the chopped orange carrots and placing them into one section of the open pink lunchbox, then carefully placing the purple grapes into the next section with her fingers one by one. The lunchbox filling up section by section, sandwich already visible in its section.\nClose-up. The exact same pink lunchbox sits fully closed on the counter to one side. Mom's hand writes on a small square note card on the counter beside the closed lunchbox — a small heart drawn first, then the words \"I love you. Have the best day.\" Written beside the lunchbox, not inside it. The last act of love.\nCamera:\nWide shot for the lunchbox opening\nClose-up on the mustard spread with ingredients visible around the board\nMedium shot with mom fully visible for the sandwich build\nDramatic close-up for the diagonal cut — cross-section reveal\nClose-up on both hands lowering sandwich into the empty lunchbox\nSide angle close-up for the single knife carrot chop\nClose-up on hands placing carrots and grapes into lunchbox sections\nClose-up on the note being written beside the closed lunchbox\nStyle:\nSoft early morning golden light throughout\nWarm dusty rose t-shirt, vivid sandwich colors — green lettuce, yellow cheese, pink turkey, orange carrots, deep purple grapes\nSame pink lunchbox pixel-perfect identical in every shot\nPixar CGI vivid warm animation — tender, quiet, unhurried energy throughout\nEvery movement slow and deliberate — made with love every single morning\nSound design: Soft gentle piano music plays from the very first frame to the very last — warm, quiet, tender. Continuous, uninterrupted, same track all 8 shots without any breaks. Underneath the music, soft natural sounds layered in — lunchbox lid clicking open, butter knife spreading mustard, sandwich.",
+        "type": "video"
+      }
+    ],
+    "author": {
+      "name": "TechieSA",
+      "username": "TechieBySA",
+      "avatar": "https://pbs.twimg.com/profile_images/1933182609758052352/k_CZpuNi_normal.jpg",
+      "verified": false,
+      "profileUrl": "https://x.com/TechieBySA"
+    },
+    "stats": {
+      "likes": 82,
+      "views": 3619,
+      "retweets": 8
+    },
+    "postedAt": "3d",
+    "model": "Seedance 2.0",
+    "aspectRatio": "3:4",
+    "imageWidth": 1080,
+    "imageHeight": 1440,
+    "promptReady": true,
+    "localImages": [
+      "video-thumbnails/2056061626625688059.webp"
+    ],
+    "sourceCollection": "videos",
+    "cdnImages": [
+      "video-thumbnails/2056061626625688059.webp"
+    ],
+    "cdnImage": "video-thumbnails/2056061626625688059.webp",
+    "rawImages": [
+      "https://raw.githubusercontent.com/mrslimslim/awesome-prompt/main/video-thumbnails/2056061626625688059.webp"
+    ],
+    "rawImage": "https://raw.githubusercontent.com/mrslimslim/awesome-prompt/main/video-thumbnails/2056061626625688059.webp"
+  },
+  {
+    "id": "2055922277334892843",
+    "image": "https://images.meigen.ai/videos/2055922277334892843/thumb.jpg",
+    "mediaType": "video",
+    "videoUrl": "https://images.meigen.ai/videos/2055922277334892843/video.mp4",
+    "title": "Create one single composite reference sheet for a 15-seco...",
+    "prompt": "Create one single composite reference sheet for a 15-second realistic pasta-making tutorial video. The image should be a clean, high-end production reference board, not a poster with heavy text. Format: 16:9 wide reference sheet, elegant white margins, clean grid layout, realistic cinematic photography style. Concept: Fresh pasta-making tutorial in a warm old Persian kitchen. Top row: motion / choreography guide with 9 numbered cinematic action panels showing the pasta process: Flour well on wooden counter Eggs cracked into the flour well Mixing eggs and flour with a fork Kneading dough by hand Rested dough ball on a wooden board Rolling dough with a rolling pin Cutting or shaping fresh pasta noodles Lifting fresh pasta strands above a copper pot Plating pasta with garnish Middle-left: realistic character reference sheet of the same female cook, based on the attached character reference image. Use the attached reference image to match her identity, facial features, hair, expression, clothing, jewelry, and overall appearance. She is an elegant Iranian woman with long dark hair, striking light eyes, bold brows, deep red lipstick, and richly detailed traditional Persian clothing with intricate red, blue, and gold patterns, along with delicate traditional jewelry and a decorative headpiece. Include face close-up, full-body front view, side/action working pose, and back view. Keep her grounded, graceful, approachable, skilled, and cinematic. Middle-right / background: location reference sheet of the kitchen, based on the attached location reference image. Use the attached kitchen reference image to match the environment and mood: a tiny old Persian mud-house kitchen corner with rustic adobe walls, warm earthy tones, thick wooden ceiling beams, handmade dark wooden shelves, vintage containers and cookware, an old Persian kettle on a small stove, hanging herbs and plants, imperfect handmade details, soft natural sunlight entering from the window, nostalgic countryside atmosphere, intimate rustic composition, and an authentic traditional Iranian village kitchen aesthetic. Style: realistic, cinematic, warm natural light, shallow depth of field, tactile food photography, premium cooking show aesthetic, rich textures, flour dust, egg yolk gloss, dough texture, copper reflections, wooden counter detail, cozy editorial mood. Bottom strip: simple visual icons only for 15 seconds, 16:9, realistic, cinematic, tasty, natural camera. Minimal text, no dense paragraphs. Let the visuals do the heavy lifting.",
+    "promptSegments": [
+      {
+        "text": "Create one single composite reference sheet for a 15-second realistic pasta-making tutorial video. The image should be a clean, high-end production reference board, not a poster with heavy text. Format: 16:9 wide reference sheet, elegant white margins, clean grid layout, realistic cinematic photography style. Concept: Fresh pasta-making tutorial in a warm old Persian kitchen. Top row: motion / choreography guide with 9 numbered cinematic action panels showing the pasta process: Flour well on wooden counter Eggs cracked into the flour well Mixing eggs and flour with a fork Kneading dough by hand Rested dough ball on a wooden board Rolling dough with a rolling pin Cutting or shaping fresh pasta noodles Lifting fresh pasta strands above a copper pot Plating pasta with garnish Middle-left: realistic character reference sheet of the same female cook, based on the attached character reference image. Use the attached reference image to match her identity, facial features, hair, expression, clothing, jewelry, and overall appearance. She is an elegant Iranian woman with long dark hair, striking light eyes, bold brows, deep red lipstick, and richly detailed traditional Persian clothing with intricate red, blue, and gold patterns, along with delicate traditional jewelry and a decorative headpiece. Include face close-up, full-body front view, side/action working pose, and back view. Keep her grounded, graceful, approachable, skilled, and cinematic. Middle-right / background: location reference sheet of the kitchen, based on the attached location reference image. Use the attached kitchen reference image to match the environment and mood: a tiny old Persian mud-house kitchen corner with rustic adobe walls, warm earthy tones, thick wooden ceiling beams, handmade dark wooden shelves, vintage containers and cookware, an old Persian kettle on a small stove, hanging herbs and plants, imperfect handmade details, soft natural sunlight entering from the window, nostalgic countryside atmosphere, intimate rustic composition, and an authentic traditional Iranian village kitchen aesthetic. Style: realistic, cinematic, warm natural light, shallow depth of field, tactile food photography, premium cooking show aesthetic, rich textures, flour dust, egg yolk gloss, dough texture, copper reflections, wooden counter detail, cozy editorial mood. Bottom strip: simple visual icons only for 15 seconds, 16:9, realistic, cinematic, tasty, natural camera. Minimal text, no dense paragraphs. Let the visuals do the heavy lifting.",
+        "type": "image"
+      },
+      {
+        "text": "CRITICAL INSTRUCTION: The reference image contains a 9-step chronological cooking storyboard. Animate the chef seamlessly through these exact 9 steps in order. Start at Step 1 (Flour Well), flow into Step 2 (Crack Eggs), then Step 3 (Mix). Continue the chronological progression through Kneading, Resting, Rolling, Cutting, and Boiling, finishing perfectly on the final plated dish (Step 9). Prioritize the strict sequence of actions.\n\nNo music. No subtitle.\n\nLocation: Rural Persian kitchen\n\n15 seconds, 16:9, realistic, cinematic, tasty, natural camera movement.\n",
+        "type": "video"
+      }
+    ],
+    "author": {
+      "name": "Sharon Riley",
+      "username": "Just_sharon7",
+      "avatar": "https://pbs.twimg.com/profile_images/2047582418782306304/JuK3BzZh_normal.jpg",
+      "verified": false,
+      "profileUrl": "https://x.com/Just_sharon7"
+    },
+    "stats": {
+      "likes": 329,
+      "views": 15400,
+      "retweets": 20
+    },
+    "postedAt": "4d",
+    "model": "Seedance 2.0",
+    "aspectRatio": "4:5",
+    "imageWidth": 1080,
+    "imageHeight": 1350,
+    "promptReady": true,
+    "localImages": [
+      "video-thumbnails/2055922277334892843.webp"
+    ],
+    "sourceCollection": "videos",
+    "cdnImages": [
+      "video-thumbnails/2055922277334892843.webp"
+    ],
+    "cdnImage": "video-thumbnails/2055922277334892843.webp",
+    "rawImages": [
+      "https://raw.githubusercontent.com/mrslimslim/awesome-prompt/main/video-thumbnails/2055922277334892843.webp"
+    ],
+    "rawImage": "https://raw.githubusercontent.com/mrslimslim/awesome-prompt/main/video-thumbnails/2055922277334892843.webp"
+  },
+  {
+    "id": "2055153153683886358",
+    "image": "https://images.meigen.ai/videos/2055153153683886358/thumb.jpg",
+    "mediaType": "video",
+    "videoUrl": "https://images.meigen.ai/videos/2055153153683886358/video.mp4",
+    "title": "Japanese Office Girl GRWM — Clean Minimal Corporate Style",
+    "prompt": "Japanese Office Girl GRWM — Clean Minimal Corporate Style\nModern Tokyo office worker “Get Ready With Me” vlog filmed in a compact minimalist apartment before sunrise. A professional Japanese woman prepares for work with efficient routines while narrating in fluent Japanese. Includes hair straightening, neutral makeup, steaming clothes, selecting elegant office outfits, preparing iced coffee, packing a sleek tote bag, and rushing through Tokyo subway scenes. Cool blue morning tones mixed with warm apartment lighting. Clean aesthetics inspired by Japanese lifestyle channels, realistic pacing, natural sound design, organized desk setup, subtle cinematic transitions, calm productivity mood.",
+    "author": {
+      "name": "Smiling Khan",
+      "username": "AIwithkhan",
+      "avatar": "https://pbs.twimg.com/profile_images/2043791038528331776/rcl0HoZd_normal.jpg",
+      "verified": false,
+      "profileUrl": "https://x.com/AIwithkhan"
+    },
+    "stats": {
+      "likes": 68,
+      "views": 5414,
+      "retweets": 1
+    },
+    "postedAt": "6d",
+    "model": "Seedance 2.0",
+    "aspectRatio": "265:157",
+    "imageWidth": 1060,
+    "imageHeight": 628,
+    "promptReady": true,
+    "localImages": [
+      "video-thumbnails/2055153153683886358.webp"
+    ],
+    "sourceCollection": "videos",
+    "cdnImages": [
+      "video-thumbnails/2055153153683886358.webp"
+    ],
+    "cdnImage": "video-thumbnails/2055153153683886358.webp",
+    "rawImages": [
+      "https://raw.githubusercontent.com/mrslimslim/awesome-prompt/main/video-thumbnails/2055153153683886358.webp"
+    ],
+    "rawImage": "https://raw.githubusercontent.com/mrslimslim/awesome-prompt/main/video-thumbnails/2055153153683886358.webp"
+  },
+  {
+    "id": "2054949748663287979",
+    "image": "https://images.meigen.ai/videos/2054949748663287979/thumb.jpg",
+    "mediaType": "video",
+    "videoUrl": "https://images.meigen.ai/videos/2054949748663287979/video.mp4",
+    "title": "A high-quality 3D stylized character figurine in a 'Toon'...",
+    "prompt": "A high-quality 3D stylized character figurine in a 'Toon' aesthetic. The character is a young male with detailed hair, wearing stylish oversized streetwear including a textured hoodie with bold typography and baggy cargo pants. The clothing features realistic fabric physics and intricate details like stitching and distressed textures. The character has expressive, large eyes and wears trendy accessories like glasses and a beanie. Background is a clean, solid pastel color with large 3D bold typography reading '3D SHAPE'. Hyper-realistic textures, cinematic studio lighting, soft shadows, 8K resolution, octane render, vivid colors, and a shallow depth of field for a professional toy-photography look.",
+    "author": {
+      "name": "K",
+      "username": "ChillaiKalan__",
+      "avatar": "https://pbs.twimg.com/profile_images/2042898125573197824/Em0FFxRw_normal.jpg",
+      "verified": false,
+      "profileUrl": "https://x.com/ChillaiKalan__"
+    },
+    "stats": {
+      "likes": 259,
+      "views": 9611,
+      "retweets": 22
+    },
+    "postedAt": "6d",
+    "model": "Seedance 2.0",
+    "aspectRatio": "49:36",
+    "imageWidth": 980,
+    "imageHeight": 720,
+    "promptReady": true,
+    "localImages": [
+      "video-thumbnails/2054949748663287979.webp"
+    ],
+    "sourceCollection": "videos",
+    "cdnImages": [
+      "video-thumbnails/2054949748663287979.webp"
+    ],
+    "cdnImage": "video-thumbnails/2054949748663287979.webp",
+    "rawImages": [
+      "https://raw.githubusercontent.com/mrslimslim/awesome-prompt/main/video-thumbnails/2054949748663287979.webp"
+    ],
+    "rawImage": "https://raw.githubusercontent.com/mrslimslim/awesome-prompt/main/video-thumbnails/2054949748663287979.webp"
+  },
+  {
+    "id": "2054918141579493849",
+    "image": "https://images.meigen.ai/videos/2054918141579493849/thumb.jpg",
+    "mediaType": "video",
+    "videoUrl": "https://images.meigen.ai/videos/2054918141579493849/video.mp4",
+    "title": "Create a high-end 4:3 luxury furniture pitch deck storybo...",
+    "prompt": "Create a high-end 4:3 luxury furniture pitch deck storyboard in 3x4 grid (12 frames), editorial layout, Poltrona Frau/B&B Italia style, warm walnut + cream bouclé palette. Structured flow: material → form → proportion → placement → living closure. \n\nEach frame split: top cinematic image (no text) + bottom storyboard notes. Italian modernist minimal aesthetic, furniture as sculpture mood, considered living. A single lounge chair in raking light is the emotional center throughout.",
+    "promptSegments": [
+      {
+        "text": "Create a high-end 4:3 luxury furniture pitch deck storyboard in 3x4 grid (12 frames), editorial layout, Poltrona Frau/B&B Italia style, warm walnut + cream bouclé palette. Structured flow: material → form → proportion → placement → living closure. \n\nEach frame split: top cinematic image (no text) + bottom storyboard notes. Italian modernist minimal aesthetic, furniture as sculpture mood, considered living. A single lounge chair in raking light is the emotional center throughout.",
+        "type": "image"
+      },
+      {
+        "text": "Animate the provided 3x4 storyboard into a smooth cinematic video. Preserve exact shot order and continuity. Use slow raking light shadow travel, fabric weave texture macro, chair silhouette reveal, and room placement aerial drift. Lighting transitions from cool white showroom light to warm afternoon raking shadow. Furniture editorial aesthetic, sculptural restraint, lived-in perfection mood. No new shots, no reordering, lounge chair remains emotional focus in all scenes.",
+        "type": "video"
+      }
+    ],
+    "author": {
+      "name": "𝐌",
+      "username": "Strength04_X",
+      "avatar": "https://pbs.twimg.com/profile_images/2047561489616363520/NbhoYDNT_normal.jpg",
+      "verified": false,
+      "profileUrl": "https://x.com/Strength04_X"
+    },
+    "stats": {
+      "likes": 217,
+      "views": 17082,
+      "retweets": 32
+    },
+    "postedAt": "7d",
+    "model": "Seedance 2.0",
+    "aspectRatio": "135:136",
+    "imageWidth": 1080,
+    "imageHeight": 1088,
+    "promptReady": true,
+    "localImages": [
+      "video-thumbnails/2054918141579493849.webp"
+    ],
+    "sourceCollection": "videos",
+    "cdnImages": [
+      "video-thumbnails/2054918141579493849.webp"
+    ],
+    "cdnImage": "video-thumbnails/2054918141579493849.webp",
+    "rawImages": [
+      "https://raw.githubusercontent.com/mrslimslim/awesome-prompt/main/video-thumbnails/2054918141579493849.webp"
+    ],
+    "rawImage": "https://raw.githubusercontent.com/mrslimslim/awesome-prompt/main/video-thumbnails/2054918141579493849.webp"
+  },
+  {
+    "id": "2054872820191277454",
+    "image": "https://images.meigen.ai/videos/2054872820191277454/thumb.jpg",
+    "mediaType": "video",
+    "videoUrl": "https://images.meigen.ai/videos/2054872820191277454/video.mp4",
+    "title": "A professional character concept art sheet featuring Lira...",
+    "prompt": "A professional character concept art sheet featuring Lira, an Olympic diver, displayed in a clean, minimalist layout against a stark white background. The central focus presents three full-body orthographic views—front, side, and back—showcasing her athletic, slender build and a sleek navy-blue one-piece swimsuit with white geometric accents. To the right, high-fidelity close-ups highlight facial features, shoulder anatomy, and fabric texture, while the left side contains descriptive typography, biographical stats, and a structured color palette. The rendering style is semi-realistic digital illustration, utilizing soft, diffused studio lighting to emphasize form without harsh shadows, maintaining a clean, professional aesthetic suitable for animation production or game design portfolios.\n\n* **Style:** Professional 2D character concept sheet, semi-realistic digital illustration\n* **Key elements:** Olympic diver character, orthographic projections, technical design specs, navy swimsuit\n* **Lighting:** Flat, soft, diffuse studio lighting, cool neutral tones\n* **Camera:** Orthographic projection, high-key studio composition",
+    "promptSegments": [
+      {
+        "text": "A professional character concept art sheet featuring Lira, an Olympic diver, displayed in a clean, minimalist layout against a stark white background. The central focus presents three full-body orthographic views—front, side, and back—showcasing her athletic, slender build and a sleek navy-blue one-piece swimsuit with white geometric accents. To the right, high-fidelity close-ups highlight facial features, shoulder anatomy, and fabric texture, while the left side contains descriptive typography, biographical stats, and a structured color palette. The rendering style is semi-realistic digital illustration, utilizing soft, diffused studio lighting to emphasize form without harsh shadows, maintaining a clean, professional aesthetic suitable for animation production or game design portfolios.\n\n* **Style:** Professional 2D character concept sheet, semi-realistic digital illustration\n* **Key elements:** Olympic diver character, orthographic projections, technical design specs, navy swimsuit\n* **Lighting:** Flat, soft, diffuse studio lighting, cool neutral tones\n* **Camera:** Orthographic projection, high-key studio composition",
+        "type": "image"
+      },
+      {
+        "text": "SUBJECTS:\nFemale Olympic-level diver @ image 1. Slightly stylized cartoon proportions, clean athletic hair bun, no swim cap, competition swimsuit.\nENVIRONMENT:\nInternational-level diving competition venue.\nDeep blue pool, 10-meter platform, audience seating, judging area, and intense stadium lighting.\nThe water surface must feel realistic:\nthe sensation of air brushing across the water, subtle reflections, extremely thin water entry traces, tiny ripples, and lingering bubbles should all exist naturally.\nMUSIC:\nSteady rhythmic percussion combined with low-frequency ambient music.\nSTYLE:\nDigital painting aesthetic. Large simplified color blocks, hard-edge brushwork, low-detail structure, heavy shadows, preserving visible hand-painted texture.\nNo realistic 3D feeling, no commercial CG advertisement look, no polished realism.\nSHOT 1\n35mm, close-up of the edge of the 10-meter platform.\nThe camera slowly approaches from a low side angle of the platform.\nThe diver has already completed the handstand preparation pose at the platform edge, both hands firmly supporting the platform, shoulders and back fully opened, core tightened, legs together extending upward into a clean straight line.\nSFX:\nSubtle stadium ambience, quiet breathing from the audience, low-frequency ambient music begins.\nSHOT 2\n50mm, close-up to medium shot.\nThe camera slowly moves from the palms to the shoulders and back, then lifts upward following the motion.\nShe presses both hands against the platform, coordinating force through the shoulders, core, and hips as her body naturally leaves the edge of the platform.\nHer legs remain together and fully extended throughout, with light and stable movement.\nSFX:\nHands contacting the platform, subtle air movement, low-frequency rhythm enters.\nSHOT 3\n35mm, medium-wide aerial shot.\nThe camera steadily follows her trajectory after leaving the platform.\nShe transitions naturally into continuous flips following the takeoff motion.\nHer body first tightens to complete the rotation, then naturally opens into extension.\nHer legs sweep past overhead while her pointed toes maintain steady control.\nSFX:\nMusic layers gradually rise, wind sound intensifies, subtle audience gasps.\nSHOT 4\n28mm, high-angle tracking medium shot.\nThe camera lightly follows her descending trajectory from above.\nShe gradually slows the rotation, brings her arms back closer to the body, then smoothly draws them upward above her head.\nHer shoulders and back open as the body slowly returns to a vertical position.\nSFX:\nMusic gradually leaves empty space, subtle compressed air sound, stadium ambience remains.\nSHOT 5\n70mm, close-up of the water surface, fixed high-speed camera.\nBoth hands cut into the water first, followed by the head, shoulders, body, legs, and pointed toes entering the pool along the same line.\nOnly an extremely thin trace and subtle ripples remain on the water surface.\nAlmost no splash escapes outward.\nSFX:\nShort water entry sound, low underwater thump, audience applause slowly emerges.\nSHOT 6\n24mm, underwater medium shot.\nThe camera slowly drifts forward following tiny bubbles.\nShe maintains a standard streamlined glide forward, arms extended ahead, hands together.\nHer body then slightly relaxes as the shoulders and back guide a slow turn.\nTiny bubbles create soft trailing lines along the arms, shoulders, back, and legs.\nSFX:\nLow underwater ambience, soft ambient music, tiny bubble sounds.\nSHOT 7\n50mm, front medium close-up.\nThe camera steadily and slowly pushes closer.\nShe regains her stance and slowly raises her head.\nOne hand rests near the chest while the other naturally extends upward to the side, forming a frozen finishing pose.\nSFX:\nFinal rhythmic beat of the music, subtle shutter freeze sound, continuing audience applause.",
+        "type": "video"
+      }
+    ],
+    "author": {
+      "name": "Latte",
+      "username": "0xbisc",
+      "avatar": "https://pbs.twimg.com/profile_images/2045738616035635200/nrhroSfA_normal.png",
+      "verified": false,
+      "profileUrl": "https://x.com/0xbisc"
+    },
+    "stats": {
+      "likes": 2331,
+      "views": 177273,
+      "retweets": 219
+    },
+    "postedAt": "7d",
+    "model": "Seedance 2.0",
+    "aspectRatio": "1:1",
+    "imageWidth": 1080,
+    "imageHeight": 1080,
+    "promptReady": true,
+    "localImages": [
+      "video-thumbnails/2054872820191277454.webp"
+    ],
+    "sourceCollection": "videos",
+    "cdnImages": [
+      "video-thumbnails/2054872820191277454.webp"
+    ],
+    "cdnImage": "video-thumbnails/2054872820191277454.webp",
+    "rawImages": [
+      "https://raw.githubusercontent.com/mrslimslim/awesome-prompt/main/video-thumbnails/2054872820191277454.webp"
+    ],
+    "rawImage": "https://raw.githubusercontent.com/mrslimslim/awesome-prompt/main/video-thumbnails/2054872820191277454.webp"
+  },
+  {
     "id": "2054269449038180754",
     "image": "https://images.meigen.ai/videos/2054269449038180754/thumb.jpg",
     "mediaType": "video",
@@ -18,7 +592,7 @@
       "views": 3531,
       "retweets": 6
     },
-    "postedAt": "4d",
+    "postedAt": "8d",
     "model": "Seedance 2.0",
     "aspectRatio": "16:9",
     "imageWidth": 1920,
@@ -56,7 +630,7 @@
       "views": 2307,
       "retweets": 2
     },
-    "postedAt": "4d",
+    "postedAt": "8d",
     "model": "Seedance 2.0",
     "aspectRatio": "9:16",
     "imageWidth": 1080,
@@ -94,7 +668,7 @@
       "views": 1951,
       "retweets": 3
     },
-    "postedAt": "4d",
+    "postedAt": "9d",
     "model": "Seedance 2.0",
     "aspectRatio": "16:9",
     "imageWidth": 1280,
@@ -142,7 +716,7 @@
       "views": 32999,
       "retweets": 81
     },
-    "postedAt": "4d",
+    "postedAt": "9d",
     "model": "Seedance 2.0",
     "aspectRatio": "9:10",
     "imageWidth": 720,
@@ -190,7 +764,7 @@
       "views": 4912,
       "retweets": 8
     },
-    "postedAt": "5d",
+    "postedAt": "10d",
     "model": "Seedance 2.0",
     "aspectRatio": "3:4",
     "imageWidth": 1080,
@@ -228,7 +802,7 @@
       "views": 10382,
       "retweets": 2
     },
-    "postedAt": "5d",
+    "postedAt": "10d",
     "model": "Seedance 2.0",
     "aspectRatio": "120:67",
     "imageWidth": 1920,
@@ -266,7 +840,7 @@
       "views": 535,
       "retweets": 2
     },
-    "postedAt": "6d",
+    "postedAt": "10d",
     "model": "Seedance 2.0",
     "aspectRatio": "16:9",
     "imageWidth": 1920,
@@ -304,7 +878,7 @@
       "views": 7411,
       "retweets": 28
     },
-    "postedAt": "7d",
+    "postedAt": "12d",
     "model": "Seedance 2.0",
     "aspectRatio": "16:9",
     "imageWidth": 1280,
@@ -352,7 +926,7 @@
       "views": 13503,
       "retweets": 36
     },
-    "postedAt": "8d",
+    "postedAt": "13d",
     "model": "Seedance 2.0",
     "aspectRatio": "1:1",
     "imageWidth": 1080,
@@ -400,7 +974,7 @@
       "views": 44431,
       "retweets": 122
     },
-    "postedAt": "13d",
+    "postedAt": "18d",
     "model": "Seedance 2.0",
     "aspectRatio": "1:1",
     "imageWidth": 1080,
@@ -438,7 +1012,7 @@
       "views": 10969,
       "retweets": 12
     },
-    "postedAt": "14d",
+    "postedAt": "19d",
     "model": "Seedance 2.0",
     "aspectRatio": "3:4",
     "imageWidth": 1080,
@@ -486,7 +1060,7 @@
       "views": 285279,
       "retweets": 392
     },
-    "postedAt": "15d",
+    "postedAt": "20d",
     "model": "Seedance 2.0",
     "aspectRatio": "1:1",
     "imageWidth": 1080,
@@ -524,7 +1098,7 @@
       "views": 18033,
       "retweets": 29
     },
-    "postedAt": "22d",
+    "postedAt": "27d",
     "model": "Seedance 2.0",
     "aspectRatio": "16:9",
     "imageWidth": 1920,
